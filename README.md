@@ -11,9 +11,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
-- 🎓 **Senior Student at Business Information Systems (BIS), Helwan University – Level 4**
-- 📊 **Data Analyst** (Python – SQL – Power BI – Excel)
-- 🧠 Interested in Data Analysis, BI, Dashboards, Data Cleaning
+- 🎓 **Senior Student at Business Information Systems (BIS), Helwan University **
+- 📊 **Data Analyst** (Python – SQL – Power BI – Excel, Tableau)
+- 🧠 Interested in Data Analysis, BI, Dashboards, Data Cleaning, Data Visualization
 - 📚 Currently learning:
   - Advanced Data Analysis
   - Machine Learning basics
@@ -45,8 +45,8 @@
 
 ### 📝 Featured Projects
 
-- 📌 **Sales Dashboard – Power BI**  
-- 📌 **Data Cleaning with Python**  
+- 📌 **Sales Dashboard – Power BI, Excel, Tableau**  
+- 📌 **Data Cleaning with Python and Power query**  
 - 📌 **SQL Business Analysis**  
 - 📌 **Excel Interactive Dashboard**  
 
