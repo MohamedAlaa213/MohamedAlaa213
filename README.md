@@ -1,13 +1,13 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-alaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-alaa23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>&nbsp;
 <a href="https://github.com/MohamedAlaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" /></a>&nbsp;
 </p>
 
 ### 📬 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-alaa23" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-alaa2323" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a>&nbsp;
 <a href="https://www.facebook.com/share/1BdffdVmyc/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" height="30"/></a>
 </p>
 
@@ -28,7 +28,7 @@
 - ⚡ Fun fact: I enjoy turning raw data into insights" width="45" /> About Me
 
 - 🎓 **Senior Student at Business Information Systems (BIS), Helwan University – Level 4**
-- 📊 **Data Analyst** (Python – SQL – Power BI – Excel, Tableau)
+- 📊 **Data Analyst** (Python – SQL – Power BI – Excel)
 - 🧠 Interested in Data Analysis, BI, Dashboards, Data Cleaning
 - 📚 Currently learning:
   - Advanced Data Analysis
@@ -61,8 +61,8 @@
 
 ### 📝 Featured Projects
 
-- 📌 **Sales Dashboard – Power BI, Excel, Tableau**  
-- 📌 **Data Cleaning with Python, Power query**  
+- 📌 **Sales Dashboard – Power BI**  
+- 📌 **Data Cleaning with Python**  
 - 📌 **SQL Business Analysis**  
 - 📌 **Excel Interactive Dashboard**  
 
