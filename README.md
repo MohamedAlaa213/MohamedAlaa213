@@ -16,8 +16,8 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
 - 🎓 **Senior Student at Business Information Systems (BIS), Helwan University – Level 4**
-- 📊 **Data Analyst** (Python – SQL – Power BI – Excel – DAX)**
-- 🧠 Interested in Data Analysis, BI, Dashboards, Data Cleaning
+- 📊 **Data Analyst** (Python – SQL – Power BI – Excel – DAX, Tableau)**
+- 🧠 Interested in Data Analysis, BI, Dashboards, Data Cleaning, Data Visualization
 - 💡 I also use **DAX** formulas in Power BI for advanced analytics and measures
 - 📚 Currently learning:
   - Advanced Data Analysis
