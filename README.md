@@ -11,7 +11,6 @@
 
 ![](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
----
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me
 
@@ -25,16 +24,7 @@
 - 💬 Ask me about: Power BI, SQL Queries, DAX, Dashboards, Data Cleaning
 - ⚡ Fun fact: I enjoy turning raw data into insights" width="45" /> About Me
 
-- 🎓 **Senior Student at Business Information Systems (BIS), Helwan University – Level 4**
-- 📊 **Data Analyst** (Python – SQL – Power BI – Excel)
-- 🧠 Interested in Data Analysis, BI, Dashboards, Data Cleaning
-- 📚 Currently learning:
-  - Advanced Data Analysis
-  - Machine Learning basics
-- 💬 Ask me about: Power BI, SQL Queries, Dashboards, Data Cleaning
-- ⚡ Fun fact: I enjoy turning raw data into insights
 
----
 
 ### 🧑‍💻 Tech & Tools I Work With
 
@@ -47,7 +37,7 @@
 <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="55" height="55"/>
 </p>
 
----
+
 
 ### 📈 My Github Stats
 
@@ -55,24 +45,24 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
----
+
 
 ### 📝 Featured Projects
 
-- 📌 **Sales Dashboard – Power BI**  
-- 📌 **Data Cleaning with Python**  
+- 📌 **Sales Dashboard – Power BI, Excel, Tableau**  
+- 📌 **Data Cleaning with Python, Power query**  
 - 📌 **SQL Business Analysis**  
 - 📌 **Excel Interactive Dashboard**  
 
 > (Project links will be added once provided.)
 
----
+
 
 ### ✨ Quote of the Day
 
 > "Data is the new oil — but only if refined."
 
----
+
 
 ### 😂 A Little Humor
 
