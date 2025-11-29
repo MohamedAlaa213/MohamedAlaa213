@@ -1,13 +1,11 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-alaa23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>&nbsp;
-<a href="https://github.com/MohamedAlaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" /></a>&nbsp;
 </p>
 
 ### 📬 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-alaa2323" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-alaa23" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a>&nbsp;
 <a href="https://www.facebook.com/share/1BdffdVmyc/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" height="30"/></a>
 </p>
 
